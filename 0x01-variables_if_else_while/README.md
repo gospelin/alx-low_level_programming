@@ -4,8 +4,8 @@ Project done during **Full Stack Software Engineering studies** at **Holberton S
 
 ## Technologies
 * C files are compiled using `gcc 4.8.4`
-* C files are written according to the C90 standard
-* Tested on Ubuntu 14.04 LTS
+* C files are written according to the C99 standard
+* Tested on Ubuntu 20.04 LTS
 
 ## Files
 All of the following files are programs written in C:
